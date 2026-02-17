@@ -38,11 +38,6 @@ The project implements Redux for global state management and includes advanced p
 
 ---
 
-## 📊 State Management
-Redux is used for centralized state management to efficiently handle cart data and product state across multiple components.
-
----
-
 ## 📷 Screenshots
 (Add your project screenshots here)
 
