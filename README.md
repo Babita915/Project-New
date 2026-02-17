@@ -38,11 +38,6 @@ The project implements Redux for global state management and includes advanced p
 
 ---
 
-## 📷 Screenshots
-(Add your project screenshots here)
-
----
-
 ## 📌 Future Improvements
 - User authentication
 - Payment integration
